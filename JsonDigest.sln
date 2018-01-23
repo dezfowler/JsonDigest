@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonDigest", "JsonDigest\JsonDigest.csproj", "{05E2119A-4849-41B2-AD5A-3AFDA4287549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonDigest.Test", "JsonDigest.Test\JsonDigest.Test.csproj", "{D6951F59-43B5-4BE5-9E25-A43A84666244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05E2119A-4849-41B2-AD5A-3AFDA4287549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E2119A-4849-41B2-AD5A-3AFDA4287549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E2119A-4849-41B2-AD5A-3AFDA4287549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E2119A-4849-41B2-AD5A-3AFDA4287549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6951F59-43B5-4BE5-9E25-A43A84666244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6951F59-43B5-4BE5-9E25-A43A84666244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6951F59-43B5-4BE5-9E25-A43A84666244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6951F59-43B5-4BE5-9E25-A43A84666244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EE02809-638E-4BE6-95D9-02F2ACF327F9}
+	EndGlobalSection
+EndGlobal
